@@ -1,0 +1,4 @@
+You usually don't want to add log files. May include error logs. 
+
+This file name is included in .gitignore, meaning it will not be added
+to the staging area using the "git add ." command.
